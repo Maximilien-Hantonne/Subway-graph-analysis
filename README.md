@@ -1,1 +1,3 @@
 # Subway-graph-analysis
+
+This project was made in 2023 for the TIPE program. It focuses on the analysis of subway networks, using graph theory to model and analyze the structure and connectivity of subway systems. Specifically, it provides an analysis of the Paris subway network, but it is designed to be flexible, allowing users to analyze any subway system by modifying `coordgares` containing the position of the subway stations and `coordlgnes` containing the edges (or lines) of the subway network. You can also generate a subway network using random generation, Erdős–Rényi model, semi-random model, random (or not) Watts–Strogatz small world model or random geometric graph generation. 
